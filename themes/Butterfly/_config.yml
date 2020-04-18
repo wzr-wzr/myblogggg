@@ -155,7 +155,7 @@ lodding_bg:
 # A simple 404 page
 error_404:
   enable: false
-  subtitle: 'Page Not Found'
+  subtitle: '诶呀 没有找到~~'
   background:
 
 post_meta:
@@ -401,7 +401,7 @@ tag_ui: # 留空或index
 background:
 
 # footer是否顯示圖片背景(與top_img一致)
-footer_bg: false
+footer_bg: true
 
 # 背景特效
 # 避免卡頓，建議只開啟一個
@@ -428,7 +428,7 @@ canvas_nest:
   opacity: 0.7 # the opacity of line (0~1), default: 0.5.
   zIndex: -1 # z-index property of the background, default: -1.
   count: 99 # the number of lines, default: 99.
-  mobile: false # false 手機端不顯示 true 手機端顯示
+  mobile: true # false 手機端不顯示 true 手機端顯示
 
 # 打字效果
 activate_power_mode:
@@ -501,8 +501,7 @@ subtitle:
   # (如果有英文逗號' , '，請使用轉義字符 &#44;)
   # 如果關閉打字效果，subtitle只會顯示sub的第一行文字
   sub:
-    - 今日事&#44;今日畢
-    - Never put off till tomorrow what you can do today
+    - Don’t try so hard&#44the best things come when you least expect them to
 
 # fontawesome圖標
 # 默認使用的是 fontawesome v4版本的圖標
@@ -549,7 +548,7 @@ busuanzi:
 # 也可以寫成 年/月/日 時間
 runtimeshow:
   enable: true
-  start_date: 6/7/2018 00:00:00
+  start_date: 3/4/2020 00:00:00
 
 ####   右下角按鈕  ####
 #----------------------------------------------
@@ -557,7 +556,7 @@ runtimeshow:
 translate:
   enable: true
   # 默認按鈕顯示文字
-  default: 繁
+  default: 简
   #網站默認語言，1: 繁體中文, 2: 簡體中文
   defaultEncoding: 2
   #延遲時間,若不在前, 要設定延遲翻譯時間, 如100表示100ms,默認為0
