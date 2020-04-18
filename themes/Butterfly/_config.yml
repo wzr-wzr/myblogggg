@@ -11,9 +11,7 @@ menu:
   生活: /categories/ || fa fa-folder-open
   链接: /link/ || fa fa-link
   关于: /about/ || fa fa-heart
-  分享||fa fa-list:
-    - Music || /music/ || fa fa-music
-    - Movie || /movies/ || fa fa-film
+  
 
 # Favicon
 # ---------------
