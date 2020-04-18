@@ -283,7 +283,7 @@ utterances:
 # ------------------------------------
 since: 2020
 
-footer_custom_text:
+footer_custom_text: SHI & WU
 
 footer_copyright:
   enable: true
@@ -516,7 +516,7 @@ aside:
   card_author: true
   card_announcement:
     enable: true
-    content: This is my Blog
+    content: What is done cannot be undone
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
