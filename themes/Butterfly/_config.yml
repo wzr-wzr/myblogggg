@@ -6,11 +6,11 @@
 #   xxx || 連結 || icon
 menu:
   主页: / || fa fa-home
-  文章: /文章/ || fa fa-archive
-  设计: /设计/ || fa fa-tags
-  生活: /生活/ || fa fa-folder-open
-  链接: /链接/ || fa fa-link
-  关于: /关于/ || fa fa-heart
+  文章: /archives/ || fa fa-archive
+  设计: /tags/ || fa fa-tags
+  生活: /categories/ || fa fa-folder-open
+  链接: /link/ || fa fa-link
+  关于: /about/ || fa fa-heart
   分享||fa fa-list:
     - Music || /music/ || fa fa-music
     - Movie || /movies/ || fa fa-film
