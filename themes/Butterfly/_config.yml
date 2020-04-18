@@ -501,7 +501,7 @@ subtitle:
   # (如果有英文逗號' , '，請使用轉義字符 &#44;)
   # 如果關閉打字效果，subtitle只會顯示sub的第一行文字
   sub:
-    - Don’t try so hard&#44the best things come when you least expect them to
+    - Don’t try so hard,the best things come when you least expect them to
 
 # fontawesome圖標
 # 默認使用的是 fontawesome v4版本的圖標
