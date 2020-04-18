@@ -1,7 +1,9 @@
 ---
 title: Movie One
-type: "tags"
+type: "categories"
+categories: 电影"
 date: 2020-03-04 00:00:00
+cover: https://i.loli.net/2020/04/18/BNfqYw1t3exyuTv.jpg
 ---
 ![img](https://i.loli.net/2020/04/18/BNfqYw1t3exyuTv.jpg)
 
