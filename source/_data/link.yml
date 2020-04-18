@@ -1,0 +1,15 @@
+class:
+  class_name: 友情鏈接
+  link_list:
+    1:
+      name: 微信公众号
+      link: https://blog.xxx.com
+      avatar: https://cdn.xxxxx.top/avatar.png
+      descr: xxxxxxx
+    2:
+      name: 哔哩哔哩
+      link: https://www.xxxxxxcn/
+      avatar: https://xxxxx/avatar.png
+      descr: SHIWU_树_ 
+
+ 
